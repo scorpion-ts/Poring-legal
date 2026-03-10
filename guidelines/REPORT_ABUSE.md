@@ -2,9 +2,9 @@
 
 Last Updated: 2026
 
-Hawk™ encourages responsible usage and community safety.
+Poring encourages responsible usage and community safety.
 
-If you believe Hawk™ is being abused or used in a harmful manner, you may report the issue to the developer.
+If you believe Poring is being abused or used in a harmful manner, you may report the issue to the developer.
 
 ## Examples of Abuse
 

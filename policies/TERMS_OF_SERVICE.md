@@ -1,20 +1,20 @@
-# Hawk™ Terms of Service
+# Poring Terms of Service
 
 Last Updated: 2026
 
-By inviting or using Hawk™ in your Discord server, you agree to the following Terms of Service.
+By inviting or using Poring in your Discord server, you agree to the following Terms of Service.
 
 ## Acceptance of Terms
 
-Using Hawk™ indicates that you accept and agree to comply with these Terms of Service.
+Using Poring indicates that you accept and agree to comply with these Terms of Service.
 
 If you do not agree with these terms, you should not use the bot.
 
 ## Proper Use
 
-Hawk™ is intended to be used for legitimate moderation, logging, and administrative purposes within Discord communities.
+Poring is intended to be used for legitimate moderation, logging, and administrative purposes within Discord communities.
 
-Users may not use Hawk™ to:
+Users may not use Poring to:
 
 - Violate Discord's Terms of Service
 - Harass or harm other users
@@ -23,17 +23,17 @@ Users may not use Hawk™ to:
 
 ## Service Availability
 
-While every effort is made to maintain reliability, Hawk™ is provided "as is" without guarantees of uninterrupted service.
+While every effort is made to maintain reliability, Poring is provided "as is" without guarantees of uninterrupted service.
 
 Downtime, maintenance, or updates may occur without prior notice.
 
 ## Termination
 
-The developer reserves the right to restrict or remove access to Hawk™ for servers or users that violate these terms.
+The developer reserves the right to restrict or remove access to Poring for servers or users that violate these terms.
 
 ## Changes to Terms
 
-These Terms of Service may be updated periodically. Continued use of Hawk™ after updates indicates acceptance of the revised terms.
+These Terms of Service may be updated periodically. Continued use of Poring after updates indicates acceptance of the revised terms.
 
 ## Contact
 

@@ -1,12 +1,12 @@
-# Hawk™ Data Retention Policy
+# Poring Data Retention Policy
 
 Last Updated: 2026
 
-This document explains how Hawk™ handles and stores data collected through its logging system.
+This document explains how Poring handles and stores data collected through its logging system.
 
 ## Data Storage
 
-Hawk™ stores server activity logs in order to provide moderation insights and event tracking.
+Poring stores server activity logs in order to provide moderation insights and event tracking.
 
 Stored data may include:
 
@@ -24,7 +24,7 @@ Server administrators may clear stored data by removing the bot or resetting its
 
 ## Data Removal
 
-When Hawk™ is removed from a server, associated stored data may be deleted from the system within a reasonable time frame.
+When Poring is removed from a server, associated stored data may be deleted from the system within a reasonable time frame.
 
 ## Policy Updates
 

@@ -1,6 +1,6 @@
 # Cookie Policy
 
-Currently, Hawk™ operates primarily through Discord and does not use cookies within Discord servers.
+Currently, Poring operates primarily through Discord and does not use cookies within Discord servers.
 
 However, if a web dashboard or external service is introduced in the future, cookies may be used to:
 

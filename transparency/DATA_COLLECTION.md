@@ -2,7 +2,7 @@
 
 Last Updated: 2026
 
-Hawk™ collects certain technical information necessary to operate its logging features.
+Poring collects certain technical information necessary to operate its logging features.
 
 ## Types of Data Collected
 
@@ -16,10 +16,10 @@ The bot may collect the following identifiers:
 
 ## Purpose of Collection
 
-This information allows Hawk™ to monitor server events and provide logging functionality for administrators.
+This information allows Poring to monitor server events and provide logging functionality for administrators.
 
 No personal user content outside of necessary event metadata is intentionally stored.
 
 ## Transparency
 
-Hawk™ aims to remain transparent regarding what information is collected and how it is used to operate the service.
+Poring aims to remain transparent regarding what information is collected and how it is used to operate the service.

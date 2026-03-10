@@ -2,7 +2,7 @@
 
 Last Updated: 2026
 
-Hawk™ provides a comprehensive logging system designed to track important activities within Discord servers.
+Poring provides a comprehensive logging system designed to track important activities within Discord servers.
 
 ## What the Logging System Does
 
@@ -22,4 +22,4 @@ The goal of the logging system is to increase transparency within communities an
 
 ## Configuration
 
-Server administrators can configure which events are logged through Hawk™ settings and commands.
+Server administrators can configure which events are logged through Poring settings and commands.

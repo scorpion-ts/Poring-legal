@@ -1,12 +1,12 @@
-# Privacy Policy for Hawk™
+# Privacy Policy for Poring
 
 Last Updated: 2026
 
-This Privacy Policy describes how Hawk™ collects, uses, and protects information when the bot is used in Discord servers.
+This Privacy Policy describes how Poring collects, uses, and protects information when the bot is used in Discord servers.
 
 ## Information We Collect
 
-Hawk™ may collect certain data necessary to provide its logging services. This may include:
+Poring may collect certain data necessary to provide its logging services. This may include:
 
 - Discord server IDs
 - Channel IDs
@@ -15,7 +15,7 @@ Hawk™ may collect certain data necessary to provide its logging services. This
 - Message metadata (such as message edits or deletions)
 - Moderation event data
 
-Hawk™ does not collect private messages outside of servers where the bot is installed.
+Poring does not collect private messages outside of servers where the bot is installed.
 
 ## Purpose of Data Collection
 
@@ -25,11 +25,11 @@ Collected information is never sold, traded, or shared for commercial purposes.
 
 ## Data Security
 
-Hawk™ implements reasonable security measures to protect stored data from unauthorized access, alteration, or disclosure.
+Poring implements reasonable security measures to protect stored data from unauthorized access, alteration, or disclosure.
 
 ## Data Sharing
 
-Hawk™ does not share collected information with third parties except when required to operate the service or comply with legal obligations.
+Poring does not share collected information with third parties except when required to operate the service or comply with legal obligations.
 
 ## User Control
 

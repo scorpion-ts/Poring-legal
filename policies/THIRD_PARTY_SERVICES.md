@@ -1,6 +1,6 @@
 # Third Party Services
 
-Hawk™ may rely on third-party platforms and services to operate effectively.
+Poring may rely on third-party platforms and services to operate effectively.
 
 These may include:
 

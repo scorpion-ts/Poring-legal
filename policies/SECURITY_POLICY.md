@@ -1,10 +1,10 @@
-# Hawk™ Security Policy
+# Poring Security Policy
 
-Security is a top priority for Hawk™.
+Security is a top priority for Poring.
 
 ## Reporting Vulnerabilities
 
-If you discover a security vulnerability in Hawk™, please report it responsibly to the developer.
+If you discover a security vulnerability in Poring, please report it responsibly to the developer.
 
 Please do not publicly disclose vulnerabilities before they are addressed.
 
